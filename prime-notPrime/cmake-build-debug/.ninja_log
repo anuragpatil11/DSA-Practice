@@ -1,0 +1,25 @@
+# ninja log v5
+1	391	7282406375004937	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+394	540	7282406376453651	prime_notPrime.exe	57eea91e7eb3dd63
+12	322	7282406762558653	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+323	485	7282406764118579	prime_notPrime.exe	57eea91e7eb3dd63
+3	371	7282408862232719	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+372	521	7282408863696176	prime_notPrime.exe	57eea91e7eb3dd63
+3	284	7282409858068120	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+285	448	7282409859645859	prime_notPrime.exe	57eea91e7eb3dd63
+4	343	7282411075672314	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+344	496	7282411077163181	prime_notPrime.exe	57eea91e7eb3dd63
+3	309	7282411541250557	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+310	447	7282411542592336	prime_notPrime.exe	57eea91e7eb3dd63
+8	627	7282512316469672	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+629	902	7282512319243257	prime_notPrime.exe	57eea91e7eb3dd63
+6	555	7282512653009653	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+557	824	7282512655612782	prime_notPrime.exe	57eea91e7eb3dd63
+6	599	7282513885694318	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+600	864	7282513888265434	prime_notPrime.exe	57eea91e7eb3dd63
+7	630	7282515164681281	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+632	860	7282515166887110	prime_notPrime.exe	57eea91e7eb3dd63
+6	512	7282515706751059	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+513	745	7282515708972034	prime_notPrime.exe	57eea91e7eb3dd63
+6	552	7282517941181660	CMakeFiles/prime_notPrime.dir/main.cpp.obj	93df3677744a4bfc
+554	812	7282517943695133	prime_notPrime.exe	57eea91e7eb3dd63

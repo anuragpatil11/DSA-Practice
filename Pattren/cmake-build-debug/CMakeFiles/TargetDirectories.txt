@@ -1,0 +1,3 @@
+C:/Users/anura/CLionProjects/Pattren/cmake-build-debug/CMakeFiles/Pattren.dir
+C:/Users/anura/CLionProjects/Pattren/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anura/CLionProjects/Pattren/cmake-build-debug/CMakeFiles/rebuild_cache.dir

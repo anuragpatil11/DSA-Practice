@@ -1,0 +1,3 @@
+C:/Users/anura/CLionProjects/prime-notPrime/cmake-build-debug/CMakeFiles/prime_notPrime.dir
+C:/Users/anura/CLionProjects/prime-notPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anura/CLionProjects/prime-notPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
